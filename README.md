@@ -297,8 +297,10 @@ components.
   Coordinates") but that PDF is **not included here**. The values in
   `HK80_TO_ITRF96` are the published `7P_ITRF96_HK80_V1.0` set; they are
   validated against the independent page B6 figure and against EPSG:1825, which
-  they match exactly. Confirm them against the Lands Department document before
-  survey use.
+  they match exactly. Before survey use, confirm them against the Lands
+  Department's own publication — the parameters are distributed from
+  <https://www.geodetic.gov.hk/en/gi/refdoc.htm>, alongside the Explanatory
+  Notes.
 
 - **Direction of the parameter set** — fed to the matrix exactly as drawn on the
   schematic, these values transform **HK80 → WGS84** (schematic note \*3). The
@@ -352,6 +354,23 @@ included in `Reference/`:
   control points behind the HKPD separation model.
 
 Those documents are © the Government of the Hong Kong SAR and are reproduced
-here for reference only. This project is an independent implementation and is
-not endorsed by the Lands Department. **Verify against official sources before
-using it for survey, statutory or safety-critical work.**
+here for reference only. The current versions, and the transformation parameter
+set, are published at <https://www.geodetic.gov.hk/en/gi/refdoc.htm>.
+
+This project is an independent implementation and is not endorsed by the Lands
+Department. **Verify against official sources before using it for survey,
+statutory or safety-critical work.**
+
+---
+
+## Licence
+
+The software in this repository — the Python source, tooling and documentation
+written for this project — is released under the **MIT Licence**; see
+[`LICENSE`](LICENSE).
+
+The MIT licence does **not** extend to the Lands Department publications in
+`Reference/`, which remain © the Government of the Hong Kong SAR with all
+rights reserved, nor to the underlying survey data in `hk_height_model.csv`.
+See [`NOTICE.md`](NOTICE.md) for the full scope and for guidance if you intend
+to redistribute.
