@@ -1,0 +1,621 @@
+=== PAGE 1 ===
+香 港 大 地 測 量 基 準 說 明
+Explanatory Notes on
+Geodetic Datums in Hong Kong
+Survey and Mapping Office
+Lands Department
+地政總署 測繪處
+© 1995 All Right Reserved by Hong Kong Government
+香 港 政 府 保 留 所 有 版 權
+Minor Revision (小修訂) 2018
+=== PAGE 2 ===
+修訂記錄
+修訂次數 修訂詳情 生效日期
+1.0 首次公佈 14 - 11 - 1995
+1.1 修訂第 B2, B5, C2 及 C10 頁 5 - 9 - 2018
+=== PAGE 3 ===
+................................................................................ B1
+vI ............................................................................. B2
+ja ............................................................................. B3
+ja 1980 (HK80) A
+1984 ~@jat(WGS84)
+avPt .......................................................... B4
+qd(UTM ) A
+1980 (HK1980 )
+{
+{(HKPD)B`(CD)B ........... B5
+WGS84 HKPD {
+............................................................................. B6
+gn(HK80 « WGS84 )
+UTM (HK80 « WGS84 )
+gn UTM ( P)
+gn HK1980 (HK80 )
+ja ................................................................... C1
+{ ...................................................................... C2
+dv ...................................................................... C2
+jaavoi............................................. C3
+Pja.......................................... C4
+UTM(WGS84 ) ....................................... C5
+WGS84 P HKPD {tZ........................................... C6
+vN ...................................................... C7
+v............................................................................. C8
+gn ................................................ C9
+gn.......................................... C9
+vl .................................................... C10
+=== PAGE 4 ===
+oi@dA{bAywtAb 30 w
+mF 5 100 TAAO@xCpW[B“ t”
+kAywt(GPS) FwT|C
+MAaUjatAg`PV
+c CUl{Ut A|`JQN`C
+AHKbUi
+C`N AoX AuiFC
+TC
+- B1 -
+=== PAGE 5 ===
+vI
+TqX{@K|~CsaWCS(Mr.
+Tate)b@KEE@E~saA( Mr.W.J. Newland)b
+@ET|~saWTAq
+oLBiMC
+@EGKGE~A^xb@EG|G~v
+A s P a G q u { v P a IA s1 : 2 0 0 0 0
+xCaIb@EGKT~AxazitC
+@E|~AA“ xqB” ttADTqC
+@ET~AqiC
+@ET~AIsjaayqT
+n AAiTq A“ JJ” (1858)y A sT
+]bxluHn 38.4 `^aIAq“ ja
+1963”CSQ“ d” vAoi@tCHjsn
+IAC
+tXFb@EC~NQiFA^b@EC
+~CC~QipqCIAVF 3550 C
+HqiZA@ECKCE~sqUsT
+qIZAH@PT{Cq“
+w” ] 1910^yAbPHePI( sT) qwFs
+“ja 1980”(HK80)CPS“ dv” AbPvIA
+oistARW“ 1980 ” (HK1980 ) C
+{b Aj aqBaq Baqu{q
+tC
+@EE~N AaF`pB}lB“ ywt” (GPS)Aq
+IwC^xq 512 Mapu{v“ ywt” h
+P” NAb 15 q( 12 O{Tqi
+[CtTCqAa HK1980P1984
+~@jat(WGS84)ATpC
+ywtAiwX WGS84 AHW
+g Bn Bqd(UTM) A{bwoyA
+HKBBBC
+- B2 -
+=== PAGE 6 ===
+ja
+jaqO@wFjpBAVBmyCjaq
+iHO@aa AwqOwaY@IazmM
+A@ICpGHay@IAhOyC
+{jaq@AOa HK80
+AHy WGS84 CqPwqAY@I
+azm( Ygn) iytO CUCUq
+C
+ja 1980 (HK80)
+HK80 yOw 1910 yC
+IsTq ({wsb )AYEsxlu
+Vn 38.4 ` Cg[Axnw 22(cid:176) 18¢ 13.20† NA]us
+vTqn 22(cid:176) 18¢ 12.82† NC
+sTqg 114(cid:176) 10¢ 18.75† EAoO@EG|~Lv
+P[ih(Bordeaux)TwC
+O 67.2 Tq( jUs^ 94 Tq( WY) @u
+Aw 292(cid:176) 59¢ 46.5† CoOq 67 Tq ({wsb) 94
+Tqw 292(cid:176) 52¢ 58.4† XCOb@E~
+G A@XjaqHi[w AHpT
+– 0.2† C
+1984年世界大地坐標系(WGS84)
+WGS84 O@HayIaTd (Cartesian)t C
+I WGS84 yXAay C X bL
+LvluDA Y bbDP X bA Z bhL_C
+qPwq AY@Iazm( Yng)
+P UTM iytOCWzUCC
+HK80 WGS84
+w(1910) 1984 ~@jat
+y @@b| a = 6378388 @@b| a = 6378137
+@@v f = 1/297.0 @@v f = 1/298.2572235634
+xsT
+I qAngpUG - ay
+n 22(cid:176) 18¢ 12.82† N
+g 114(cid:176) 10¢ 18.75† E
+67.2 Tq A
+94 TqG 292(cid:176) 59¢ 46.5†
+- B3 -
+=== PAGE 7 ===
+avt
+avNOygn AYz{ AbFXC
+vXgnuD AGAgBz AHKij
+Bayu{qC
+udv(TM) OWvAiW]qayAbLD
+Cqdv(UTM) O@@vk AkONWa
+yACluj 6 (\ C2 )C
+qd(UTM )
+UTM 49Q 50Q AOH 111(cid:176) E 117(cid:176) E l
+uCatC UTM aWWSWA
+HKm Cob HK80 AO 49Q GQ P HQ 50Q
+JV P KV Cb WGS84 AerO 49Q GE P HE
+50Q JK P KK (\ C5 )C
+1980 (HK1980 )
+HK1980 O@atAH HK80 d
+vkCayqBu{qjaAt
+CvI 2 Tq( {wsb) Alut 1.0C
+wi GPS wAoatbUu@M
+CH WGS84 gBn UTM aC
+v
+t UTM HK1980
+v d d
+jaq HK80 WGS84 HK80
+vI 49Q 50Q 2 Tq
+“Patridge Hill”
+n D D n 22(cid:176) 18¢ 43.68† N
+g 111(cid:176) E 117(cid:176) E g 114(cid:176) 10¢ 42.80† E
+I 0mN 0mN 819069.80mN
+500000mE 500000mE 836694.05mE
+lu 0.9996 1.0
+t
+y w(1910) 1984~@ja t w(1910)
+- B4 -
+=== PAGE 8 ===
+{
+@@{q`PYYw (\ C2 )C {
+@{{AY{(HKPD)`
+(CD)C
+@@ahWW{AH{Co
+Hex(Ordnance Datum)C
+@@`W`uA` Chart Datum (CD)_
+Coex (Admiralty Datum)C
+{ (HKPD)
+@K~A^xquQv@vAbx
+F@I AHBJh (Dr. Doberck) @KKC~@KK
+K ~w{AwI{ 5.435 A I
+uQvv (Rifleman's Bolt)A {Ouv
+U1.125 C
+xQO hQ_QE~(@E@EKT~)
+Asw 「平均海面」為香港高程基準面之上約 1.23米。 其後，根據
+於維多利亞港鰂魚涌近十九年 (一九九七至二零一五年) 的潮汐數據，「平均海
+面」為香港高程基準面之上約1.30 C
+uQvvQhKxajHFC
+@EK|~sqA{w HKPD W 5.420 C v
+A NuvvOdAA@{C
+` (CD)
+CD O[wCC@E@C~HACD @@
+sIC CD {U0.15 C
+WGS84 { HKPD {
+ywti@IwXTCLAokwX{AO
+WGS84 yW{ CN WGS84 { HKPD {D
+YC@EE@~biywtqApX{
+jnY A WGS84 { HKPD {j 2.4 (b) 0.4 (b
+F)(\ C^Cto{ATO– 0.15
+C
+- B5 -
+=== PAGE 9 ===
+`NAiATwO@ ja
+qCHUATjP 2 5 A
+TAHCCpnTAiVBMDUC
+@@Y C4B C7 C10 C
+gn (HK80 « WGS84 )
+@@]PyI AaWY@IOH HK80 WGS84
+gnALtOCnpAUC`AwHF
+P 0.1 † TC
+g (HK80) =g (WGS84) - 8.8† ( 0.1†)
+n (HK80) =n (WGS84) + 5.5† ( 0.1† )
+UTM ( HK80 « WGS84 )
+@@PzAaWY@IOHWzt UTM
+ALtO CUCt Auiw At
+T 5 Ct~A UTMerAi\ C5
+aC
+49Q UTM Northing (HK80) = UTM Northing (WGS84) + 195
+UTM Easting (HK80) = UTM Easting (WGS84) - 245
+50Q UTM Northing (HK80) = UTM Northing (WGS84) + 205
+UTM Easting (HK80) = UTM Easting (WGS84) - 260
+gn UTM ( P)
+pnH HK80 WGS84 “ gn” “UTM ” Ai
+C7 C10 1 3 3 5 vC
+`NPAl AHTO
+TC
+gn HK1980 (HK80 )
+@@pnH HK80 “ gn” “HK1980 ” AiP
+C7 C10 1 3 3 5 vA HK80 C
+- B6 -
+=== PAGE 10 ===
+j a q
+DIAGRAMS DIAGRAMS ILLUSTRATING GEODETIC DATUMS
+ILLUSTRATING GEODETIC DATUMS
+_ North Pole
+L vlu
+Greenwich Meridian
+n Latitude
+22º 18’ 12.82”E
+I Origin
+sTq
+Trig“Zero”
+g Longitude
+D Equator 114º 10’ 18.75” E
+HK 80 Geodetic Datum jaq(1980)
+Reference Ellipsoid : International Hayford (1910) yG w(1910)
+_ North Pole
+L vlu
+Greenwich Meridian
+f Hong Kong
+l
+D Equator
+WGS84 Datum 1984 ~@jat
+Reference Ellipsoid: WGS84 yG WGS 84
+-C1-
+=== PAGE 11 ===
+利福民的螺 釘
+Rifleman’s Bolt
+5.435m 平均海面
+Mean Sea Level
+香港高程基準面
+1.30m
+H K Principal Datum
+0.15m 海圖深度基準面
+Chart Datum
+海深
+Chart depth
+香港高程基準
+Hong Kong Vertical Datum
+中央子午線
+北 North
+Central Meridian 地球 Earth
+經度 Longitude
+3° 3°
+緯度Latitude
+南 South
+橫墨卡托投影
+The Transverse Mercator Projection
+- C2 -
+=== PAGE 12 ===
+jaavoi
+q ja avt
+1963~e yGJ J v: d
+@@@@@(Clarke)1880 vI: X s
+I: sTqA G 5.18` N
+bxl 0.38` E
+uHn 38.4 ` I: 1 Tq
+1963~ yGJ J vG d
+si @@@@@(Clarke)1858 vI: X s
+Tq IG sTq : 50 000` N
+120 000 ` E
+I: jsn
+1976~ yGJ J vG d
+Qi @@@@@(Clarke)1858 vI: X s
+: 15240mN
+I: sTq 33026mE
+I: 1963~IH
+F 3550
+1980~ yG w vG d
+si (International Hayford ) vI: Patridge Hill 2
+Tq 1910 Tq
+: 819069.80mN
+I: sTq 836694.05mE
+I: P 1976 ~IP
+1990~ Twt tav
+ywt ajaL C IL C
+[
+aWgBnq aWqd
+dOH 1984~ FstC
+@jatC
+- C3 -
+=== PAGE 13 ===
+UTM v az
+1984~@ Use projection formulae Geographic 1984~@
+jat UTM Grid (cid:239){ equation (1) to (3) co-ordinate jat
+co-ordinate
+WGS 84 N E { equation (3) to (5) (cid:240) f l WGS 84
+WGS84, WGS84 WGS84, WGS84
+- C4 -
+t
+rotcaf
+noisrevnoC
+Nm591+
+E
+m542-
+Q94
+enoZ
+(cid:239)
+Nm502+
+E
+m062-
+Q05
+enoZ
+N
+m591-
+E
+m542+
+Q94
+enoZ
+(cid:240)
+N
+m502-
+E
+m062+
+Q05
+enoZ
+t
+rotcaf
+noisrevnoC
+"8.8-
+edutignoL
+g
+(cid:239)
+"5
+.5+
+edutitaL
+n
+"8.8+
+edutignoL
+g
+(cid:240)
+"5.5-
+edutitaL
+n
+UTM
+ja
+UTM Grid
+1980
+co-ordinate
+N E
+HK80 HK80, HK80
+v
+ealumroF
+noitcejorP
+)3(
+)1(
+{
+(cid:239)
+)3(
+ot
+)1(noitauqe
+)5(
+)3(
+{
+(cid:240)
+)5(
+ot
+)3(
+noitauqe
+U j a
+SCHEMATIC DIAGRAM SHOWING TRANSFORMATION OF
+CO-ORDINATES BETWEEN GEODETIC DATUMS
+v az
+ja
+Projection Formulae Geographic
+co-ordinate 1980
+(cid:239){ equation (1) to (3)
+{ equation (3) to (5) (cid:240)
+f
+,
+l HK80
+HK80 HK80
+T
+Transformation Accuracy
+ja
+UTM (cid:243)UTM 5m
+WGS84 HK80
+f , l (cid:243) f , l 0.2" HK1980 Grid 1980
+WGS84 HK80
+UTM (cid:243) f , l 5m or 0.2" co-ordinate
+N,E (cid:243) f , l 5m or 0.2" HK80
+N E
+HK80, HK80
+=== PAGE 14 ===
+UTM ( WGS84)
+UTM Grid Zone in Hong Kong ( WGS84)
+SHENZHEN
+NEW TERRITORIES
+KOWLOON
+HONG KONG
+LANTAU ISLAND
+Geodetic Datum HK80 WGS84
+GQ GE
+Zone 49Q
+HQ HE
+JV JK
+Zone 50Q
+SCALE
+KM 0 2 4 6 8 10 12 14 KV KK
+Q94
+noitanitsed
+enozdirg
+mtu
+Q05
+Wd
+@
+Zone 49Q
+Zone 50Q
+-
+C5
+-
+GE HE JK KK
+=== PAGE 15 ===
+5.2-
+0.2-
+5.2-
+5.1-
+0.2-
+0.1-
+5.1-
+6.0
+0.1-
+WGS 84 P HKPD {tZ
+WGS 84 and HKPD Height Difference Contour Map
+N
+H = 282.2 m
+WGS 84
+5 H = 283.7 m
+HKPD
+{
+-0.5
+Height Conversion
+-0.5
+H = H + diff
+WGS84 HKPD
+-
+C6
+-
+=== PAGE 16 ===
+vN
+DEFINITIONS OF TERMS USED IN THE PROJECTION FORMULAE
+Let P be the point to be converted.
+] “P” @I
+N, E = Northing, Easting of P
+P Iy
+N , E = Northing, Easting of projection origin O
+0 0
+vIy
+Φ, λ = Latitude, Longitude of P
+P Ign
+Φ , λ = Latitude, Longitude of projection origin O
+0 0
+vIgn
+m = scale factor on the central meridian
+0
+lut
+∆λ = longitude of P measured from central meridian in radian (i.e. λ – λ )
+0
+lu_p P Ig ( )
+t = tan Φ
+n
+M = meridian distance measured from the Equator to P
+D P IluZ
+M = meridian distance measured from the Equator to origin of projection
+0
+DvIluZ
+- C7 -
+=== PAGE 17 ===
+v
+PROJECTION FORMULAE
+υ = radius of curvature in the prime vertical = a / (1-e2sin2φ)1/2
+s
+fvb|
+ρ = radius of curvature in the meridian = a(1 - e2)/(1 - e2sin2φ)3/2
+s
+luvb|
+ψ = isometric latitude = υ / ρ
+s s s
+qn
+a = semi-major axis of the reference ellipsoid
+yb|
+f = flattening of the reference ellipsoid
+yv
+e2 = first eccentricity of the reference ellipsoid = 2f - f2
+y@v = 2f - f2
+- C8 -
+=== PAGE 18 ===
+投影公式
+Projection Formulae
+Conversion of Φ, λ to Grid co-ordinates
+經緯度轉為方格網座標
+∆λ2
+N = N + m {(M – M ) + υ (sin Φ) ( )(cos Φ)} --(Eq. 1)
+0 0 0 s
+2
+∆λ3
+E = E + m {υ ∆λ cos Φ + υ (cos3 Φ)(ψ – t2) } --(Eq. 2)
+0 0 s s s
+6
+Meridian distance, M
+子午線距離
+M = a [A ’Φ – A ’sin (2Φ) + A ’ sin (4Φ)] --(Eq. 3)
+0 2 4
+e2 3e4
+where A ’ = 1 - -
+0
+4 64
+方程式內
+3 e4
+A ’ = (e2 + )
+2
+8 4
+15
+A ’ = e4
+4
+256
+Notes: 1. M 0 is computed using Eq. 3 by putting Φ=Φ 0 備註: 1. 以Φ=Φ 0 代入方程式3可計算M 0
+(Latitude of the projection origin.) 2. λ, Φ 的計算單位是弧度
+2. λ, Φ are in radian.
+Conversion of Grid Co-ordinates to Φ, λ
+方格網座標轉為經緯度
+∆E ∆E3
+λ = λ + secΦ ( ) - secΦ ( )(ψ + 2t 2) --(Eq. 4)
+0 ρ mυ ρ 6m 3υ3 ρ ρ
+0 ρ 0 ρ
+t ∆E2
+Φ = Φ – ( ρ ) ( ) --(Eq. 5)
+ρ
+m ρ 2mυ
+o ρ 0 ρ
+where ∆N = N – N
+0
+方程式內
+∆E = E – E
+0
+and 及 Φ is the latitude for which M = (∆N + M ) / m
+p 0 0
+M = (∆N + M ) / m 時的緯度是Φ
+0 0 p
+Notes: 1. Φ must be computed by iteration using Eq. 3. 備註: 1. 計算Φ 須用方程式3及疊代法
+p p
+2. All other quantities, such as t , ρ , υ , ψ have 2. 用Φ 來計算t , ρ , υ , ψ
+p p p p p p p p p
+their usual meanings but are computed usingΦ .
+p
+- C9 -
+=== PAGE 19 ===
+投影公式參數
+Parameters for Projection Formulae
+1984年世界大地坐標系 香港大地測量基準1980 香港大地測量基準1980
+參數
+WGS84 Datum HK80 Datum HK80 Datum
+Para.
+(UTM ↔ Φ, λ) (UTM ↔ Φ, λ) (HK1980 Grid ↔ Φ, λ)
+N 0m N 0m N 819 069.80m N
+0
+E 500 000m E 500 000m E 836 694.05m E
+0
+Zone 49Q: 0° Zone 49Q: 0°
+Φ
+0
+22°18’43.68”N
+Zone 50Q: 0° Zone 50Q: 0°
+Zone 49Q: 111°E Zone 49Q: 111°E
+λ
+0
+114°10’42.80”E
+Zone 50Q: 117°E Zone 50Q: 117°E
+m 0.9996 0.9996 1
+0
+M 0m 0m 2 468 395.728m
+0
+υ 6381215.957m 6381480.502m 6381480.502m
+s
+ρ 6344618.793m 6344727.809m 6344727.809m
+s
+ψ 1.005768221 1.005792635 1.005792635
+s
+a 6 378 137m 6 378 388m 6 378 388m
+e2 6.69437999x 10-3 6.722670022x10-3 6.722670022x10-3
+參考例子
+Reference Example
+基準 輸入數據 結果
+Datum Input Data Result
+Φ 22° 26’ 01.26”N UTM 2 483 566m N
+λ 114° 10’ 29.31” E 209 194m E
+WGS84
+UTM 2 483 568m N Φ 22° 26’ 01.16” N
+209 192m E λ 114° 10’ 29.24” E
+Φ 22° 26’ 06.76” N UTM 2 483 772m N
+λ 114° 10’ 20.46” E 208 932m E
+Φ 22° 26’ 06.76” N HK1980 832 699m N
+λ 114° 10’ 20.46” E GRID 836 055m E
+HK80
+UTM 2 483 775m N Φ 22° 26’ 06.89” N
+208 930m E λ 114° 10’ 20.39” E
+HK1980 832 699m N Φ 22° 26’ 06.76” N
+GRID 836 055m E λ 114° 10’ 20.45” E
+- C10 -
