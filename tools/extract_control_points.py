@@ -17,8 +17,20 @@ import re
 import pdfplumber
 
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-PDF = os.path.join(HERE, "ControlPointsofHKHeightModelv1.0.pdf")
+PDF_NAME = "ControlPointsofHKHeightModelv1.0.pdf"
 OUT = os.path.join(HERE, "hk_height_model.csv")
+
+
+def _find_pdf():
+    """Locate the source PDF, whether it sits in Reference/ or at the root."""
+    for folder in ("Reference", ""):
+        candidate = os.path.join(HERE, folder, PDF_NAME)
+        if os.path.exists(candidate):
+            return candidate
+    raise SystemExit(
+        "cannot find %s -- looked in %s and %s"
+        % (PDF_NAME, os.path.join(HERE, "Reference"), HERE))
+
 
 # The group column is printed only once per block, on the row that happens to be
 # vertically centred in it, so it cannot be carried forward from the text alone.
@@ -43,7 +55,7 @@ def dms(d, m, s):
 def main():
     rows = []
     group = ""
-    with pdfplumber.open(PDF) as pdf:
+    with pdfplumber.open(_find_pdf()) as pdf:
         for page in pdf.pages:
             for line in (page.extract_text() or "").splitlines():
                 m = ROW.match(line.strip())

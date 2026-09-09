@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Conversion output produced while testing the tools
+_tmptest/
+*_hk1980.csv
+*_wgs84.csv
+*_hk1980.shp
+*_hk1980.shx
+*_hk1980.dbf
+*_hk1980.prj
+*_wgs84.shp
+*_wgs84.shx
+*_wgs84.dbf
+*_wgs84.prj
